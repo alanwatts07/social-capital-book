@@ -62,6 +62,14 @@ It didn't last forever. She started asking for more and more from me — more th
 
 That's social capital. That's the safety net that no savings account could have provided at that point in my life.
 
+Then I moved back home. And everything I just described — the connections, the momentum, the sense of having people around — evaporated.
+
+My family was falling apart from the inside. The kind of slow, quiet implosion that doesn't make for dramatic stories but hollows out everyone involved. Eventually they separated, and I ended up taking care of my mom. Which I don't regret. But it meant my world shrank to almost nothing.
+
+For about a year, my life was this: go to work, come home, take care of mom, and grind on AI research alone in my room. No social life. No connections. No third place. Just a screen and a routine and the slow, familiar comfort of isolation that I'd convinced myself was productive. I was learning, sure. I was building skills. But I was also disappearing — retreating into the exact pattern this book warns you about. Grinding alone, telling myself it was enough.
+
+It wasn't. It never is. And I knew it, somewhere underneath the routine, because I'd already tasted what the alternative felt like. I'd lived in a laundry room that only existed because of a connection I'd built. I knew the math worked. I just wasn't playing the game.
+
 Then I started going to a bar. One bar. The same bar. Every Thursday.
 
 Not because I had some grand social strategy. Because I liked the vibe and the bartender was good and the beer was cheap. But I kept going. And because I kept going, the bartender learned my name. And because the bartender knew my name, she introduced me to another regular. And because that regular and I started talking every Thursday, he invited me to a poker game. And the poker game introduced me to a guy who needed someone with exactly my skillset for a project.
