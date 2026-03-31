@@ -66,7 +66,7 @@ Then I moved back home. And everything I just described — the connections, the
 
 My family was falling apart from the inside. The kind of slow, quiet implosion that doesn't make for dramatic stories but hollows out everyone involved. Eventually they separated, and I ended up taking care of my mom. Which I don't regret. But it meant my world shrank to almost nothing.
 
-For about a year, my life was this: go to work, come home, take care of mom, and grind on AI research alone in my room. No social life. No connections. No third place. Just a screen and a routine and the slow, familiar comfort of isolation that I'd convinced myself was productive. I was learning, sure. I was building skills. But I was also disappearing — retreating into the exact pattern this book warns you about. Grinding alone, telling myself it was enough.
+For about four years, my life was this: go to work, come home, take care of mom, and sit alone teaching myself AI-augmented development. I liked to build stuff. I wanted to learn. And the truth is, I was genuinely good at it — the grinding produced real skills. But four years is a long time to spend alone in a room with a screen. No social life. No connections. No third place. Just a routine and the slow, familiar comfort of isolation that I'd convinced myself was productive. I was learning, sure. But I was also disappearing — retreating into the exact pattern this book warns you about. Grinding alone, telling myself it was enough.
 
 It wasn't. It never is. And I knew it, somewhere underneath the routine, because I'd already tasted what the alternative felt like. I'd lived in a laundry room that only existed because of a connection I'd built. I knew the math worked. I just wasn't playing the game.
 

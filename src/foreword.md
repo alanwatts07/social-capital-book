@@ -4,7 +4,7 @@
 
 Nobody wrote this for me. I wish someone had.
 
-I spent years doing it the wrong way. Grinding alone. Isolating. Telling myself I didn't need anyone. I took care of my mom while my family fell apart. I sat in a room researching AI for a year with zero social life, convinced that productivity was the same thing as progress. I was broke, I was alone, and I thought that was just the price of building something.
+I spent years doing it the wrong way. Grinding alone. Isolating. Telling myself I didn't need anyone. I took care of my mom while my family fell apart. I sat in a room teaching myself AI-augmented development for four years with zero social life, convinced that productivity was the same thing as progress. I was broke, I was alone, and I thought that was just the price of building something.
 
 Then I walked into a bar nobody knew about because I needed to get out of a depressing house. I started showing up every day it was open. I helped the bartenders because I could. Within three months I had more genuine connections than I'd built in years — and I was still broke. Nothing changed except that I started being present, being useful, and paying attention to who gave back.
 
