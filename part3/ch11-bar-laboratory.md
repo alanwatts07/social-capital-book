@@ -52,7 +52,15 @@ I should tell you how I figured this out, because I didn't arrive at it through 
 
 I'm an introvert. Not the fake kind where you say "I'm an introvert" and then go to three parties a week. The real kind. The kind where a full day of social interaction leaves me physically tired, where silence feels like oxygen, where my natural instinct is to stay home with a book and call it self-care.
 
-For most of my twenties, I did exactly that. I had my work, my apartment, my routines. I was comfortable. I was also, if I'm honest, slowly calcifying. My world was getting smaller every year, and I was telling myself a story about how I preferred it that way.
+For most of my twenties, I did exactly that. I had my home, my job, and my family around — and that was it. When I was living in South Carolina, it was our apartment, my girlfriend, her family. A tight little world that felt stable until it wasn't.
+
+When we broke up and she told me to go, I had nowhere. But here's where the strategy proved itself before I even had a name for it. There was a girl I'd met through the place where my girlfriend and I had worked. I'd been kind to her — not strategically, not with a plan, just genuinely kind. And when I needed a place, she offered me the laundry room on the back of her house.
+
+A laundry room. That was my home. And honestly? I was the happiest I'd been in a long time. As an introvert who'd been living inside someone else's social world — the girlfriend, her family, the constant proximity — that tiny room was the first space that was *mine.* I could recharge in a way I couldn't when I was always around people. I could breathe. I could think.
+
+It didn't last forever. She started asking for more and more from me — more than I could give, more than the arrangement could hold. That's the prune. Not every connection stays balanced. But for a time, it was exactly what I needed, and it only existed because I'd invested in a person with no expectation of return. A small act of kindness at a job turned into a roof over my head when everything fell apart.
+
+That's social capital. That's the safety net that no savings account could have provided at that point in my life.
 
 Then I started going to a bar. One bar. The same bar. Every Thursday.
 
