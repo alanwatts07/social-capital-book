@@ -98,7 +98,7 @@ If you don't have a place like that in your life, you're missing one of the most
 
 I can already hear the objections.
 
-*I don't drink.* Great. Don't drink. Order a soda. Order a coffee. Order water. The bar doesn't care. What matters is that you're there, not what's in your glass. And if the bar truly doesn't work for you — if you're in recovery, if the environment is triggering, if it's genuinely not your scene — then find the equivalent. The coffee shop where the same freelancers work every morning. The gym where the same crew shows up at 6am. The dog park where the same owners circle the same path every evening. The community garden. The climbing wall. The open mic.
+*I don't drink.* Great. Don't drink. Order a soda. Order a coffee. Order water. (Fair warning: people at a bar might think you're a fed. But honestly, that's just another layer of intrigue. Let them wonder.) The bar doesn't care. What matters is that you're there, not what's in your glass. And if the bar truly doesn't work for you — if you're in recovery, if the environment is triggering, if it's genuinely not your scene — then find the equivalent. The coffee shop where the same freelancers work every morning. The gym where the same crew shows up at 6am. The dog park where the same owners circle the same path every evening. The community garden. The climbing wall. The open mic.
 
 The specific venue doesn't matter. What matters is that it has three properties: it's local, it has regulars, and it allows for repeated low-stakes interaction. That's it. That's the formula. If your third place has those three things, you can run every play in this book.
 
