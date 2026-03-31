@@ -74,11 +74,15 @@ Then I started going to a bar. One bar. The same bar. Every Thursday.
 
 Not because I had some grand social strategy. Because the bartender was *real.* Within the first couple visits, she was sharing her own flaws, talking about her life without performing it, showing me the basement of the place like she was letting me in on something. No pretense. No customer-service mask. Just a person being honest with another person in a way that I hadn't experienced in a long time. That's what made me come back. Not the beer. Not the vibe. The fact that someone was being genuine, and it made me feel like I could be genuine too.
 
-So I kept going. And because I kept going, the bartender learned my name. And because the bartender knew my name, she introduced me to another regular. And because that regular and I started talking every Thursday, he invited me to a poker game. And the poker game introduced me to a guy who needed someone with exactly my skillset for a project.
+So I kept going. And because I kept going, the bartender learned my name. She introduced me to other regulars. Someone invited me to hang out after close. Then a party. Then another party. Each time, the circle got a little wider. Not because I was working the room — I was barely talking. But I was *there,* and being there was enough.
 
-I didn't network. I didn't hustle. I didn't work the room. I sat at the same bar stool every Thursday and let the repeated game do what repeated games do.
+Within three months, I went from zero to more than thirty acquaintances I could remember by name and have a real conversation with. And maybe three or four people who I sincerely believed would help me in a jam. People who'd pick up the phone. People who'd show up.
 
-Within six months, I had more genuine connections than I'd built in the previous five years of deliberate isolation. Not because I'm charming — I'm not. Not because I have some magnetic personality — I definitely don't. Because I showed up. Consistently. To the same place. And consistency in a repeated game is the most powerful force there is.
+Three months. From nothing.
+
+And the whole time I was close to broke. I wasn't buying rounds for the house. I wasn't throwing money around to look generous. I was nursing cheap beers and being present. That's it. The compounding wasn't financial. It was social. One person leads to two, two leads to five, five leads to a room full of people who nod when you walk in.
+
+I didn't network. I didn't hustle. I didn't have a strategy deck. I sat at the same bar stool and let the repeated game do what repeated games do.
 
 And here's the thing nobody tells you about becoming a regular: at some point, the third place stops being a third place. It becomes a second home.
 
