@@ -1,5 +1,9 @@
 # Chapter 1: The Grind Is a Trap
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch01_grind_trap.mp3" type="audio/mpeg">
+</audio>
+
 You already know the script.
 
 Wake up at 5am. Cold shower. Journal. Meditate. Black coffee. Hit the gym before the sun comes up. Then grind. Grind until your eyes burn. Grind until the notifications blur together. Grind until you forget what day it is, because days don't matter anymore --- only output matters. Only results. Only the number going up.
