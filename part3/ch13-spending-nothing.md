@@ -78,6 +78,20 @@ And here's what the scarcity-minded people get wrong: sharing your connections d
 
 ---
 
+**Put your energy into local businesses.**
+
+This is one of the most underrated social capital moves there is. When you become a regular at a local shop, a local bar, a local barber, a local mechanic — you're not just buying a product. You're buying into a community.
+
+The owner of a local business knows people. They know who's hiring. They know who needs a website, who needs a truck, who needs someone reliable. They are connectors by nature — their livelihood depends on being embedded in the neighborhood. When you support them consistently, you become part of that web. They mention you. They vouch for you. They think of you when someone walks in and says "I need someone who can do X."
+
+This is how people get jobs without degrees and certifications. Not through LinkedIn. Not through applications that get filtered by an algorithm before a human ever sees them. Through someone who knows them saying, "I know a person. They're solid. Let me connect you." That introduction carries more weight than any resume, because it comes backed by trust that was earned over time at the counter, at the bar, in the neighborhood.
+
+And it goes both ways. When local businesses thrive, the whole community gets stronger. More gathering places. More jobs. More nodes in the network. More repeated games. When they die — replaced by chains and apps and delivery services where nobody knows your name — the social infrastructure dies with them. Every dollar you spend at a local spot is a vote for the kind of community where social capital actually works.
+
+You don't need a degree to be someone people trust and recommend. You need to show up, be known, and be part of something local. The opportunities follow.
+
+---
+
 **Be the person who remembers birthdays.**
 
 Not because Facebook told you. Because you decided to care. Put it in your calendar. The old-fashioned way. And when the day comes, send a real message. Not "HBD!" on their wall. A text. A call. Something that says: I know this day is yours, and I thought of you on purpose.
