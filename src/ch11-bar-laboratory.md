@@ -72,7 +72,9 @@ It wasn't. It never is. And I knew it, somewhere underneath the routine, because
 
 Then I started going to a bar. One bar. The same bar. Every Thursday.
 
-Not because I had some grand social strategy. Because I liked the vibe and the bartender was good and the beer was cheap. But I kept going. And because I kept going, the bartender learned my name. And because the bartender knew my name, she introduced me to another regular. And because that regular and I started talking every Thursday, he invited me to a poker game. And the poker game introduced me to a guy who needed someone with exactly my skillset for a project.
+Not because I had some grand social strategy. Because the bartender was *real.* Within the first couple visits, she was sharing her own flaws, talking about her life without performing it, showing me the basement of the place like she was letting me in on something. No pretense. No customer-service mask. Just a person being honest with another person in a way that I hadn't experienced in a long time. That's what made me come back. Not the beer. Not the vibe. The fact that someone was being genuine, and it made me feel like I could be genuine too.
+
+So I kept going. And because I kept going, the bartender learned my name. And because the bartender knew my name, she introduced me to another regular. And because that regular and I started talking every Thursday, he invited me to a poker game. And the poker game introduced me to a guy who needed someone with exactly my skillset for a project.
 
 I didn't network. I didn't hustle. I didn't work the room. I sat at the same bar stool every Thursday and let the repeated game do what repeated games do.
 
