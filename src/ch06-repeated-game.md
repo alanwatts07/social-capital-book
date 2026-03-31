@@ -20,7 +20,9 @@ Two people get arrested for a crime they committed together. The cops put them i
 
 If both stay silent, they each get a light sentence. If both rat, they both get hammered. But if one rats and the other stays silent, the rat walks free and the silent one gets destroyed.
 
-The "smart" move — the purely self-interested move — is to rat. Every time. No matter what your partner does, you're better off betraying them. If they stay silent, you walk free. If they rat, at least you don't get the worst sentence. Betrayal dominates. (but if neither rat its lighter so ratting gets you the best or worst sentence)
+The "smart" move — the purely self-interested move — is to rat. Every time. No matter what your partner does, you're individually better off betraying them. If they stay silent, you walk free. If they rat, at least you don't get the worst sentence. Betrayal dominates.
+
+But here's the twist that should eat at you: if both of you had just kept your mouths shut, you'd both walk away with a light sentence. The best outcome for *everyone* is mutual cooperation. Ratting only gets you the best *or* the worst outcome — it's a gamble. Staying silent together is the sure thing. But you can't coordinate. You can't trust. So the "rational" move destroys the better deal.
 
 This is called the prisoner's dilemma, and for decades, game theorists treated it like a proof that selfishness was rational. That cooperation was for suckers. That the cold, calculating move always won.
 
