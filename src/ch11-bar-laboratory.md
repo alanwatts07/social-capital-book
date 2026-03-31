@@ -62,6 +62,16 @@ I didn't network. I didn't hustle. I didn't work the room. I sat at the same bar
 
 Within six months, I had more genuine connections than I'd built in the previous five years of deliberate isolation. Not because I'm charming — I'm not. Not because I have some magnetic personality — I definitely don't. Because I showed up. Consistently. To the same place. And consistency in a repeated game is the most powerful force there is.
 
+And here's the thing nobody tells you about becoming a regular: at some point, the third place stops being a third place. It becomes a second home.
+
+Not home in the sense that you sleep there. Home in the sense that you can walk in and exhale. The bartender nods at you before you sit down. Your drink starts getting poured before you order it. You know which stool is yours and nobody takes it because everyone knows it's yours. You're not performing, not networking, not trying. You're just *there,* the way you're just there in your living room.
+
+But here's what makes it better than your living room: the door is open. People walk in. Conversations happen without you having to arrange them. Opportunities appear without you having to chase them. Your second home is a place where interaction is *possible* — not required, not forced, but always available. You can sit quietly and read or you can turn to the person next to you and talk for two hours. Both are fine. Both are welcome.
+
+That comfort isn't free — you earn it by showing up, by being respectful, by tipping well, by not being the person who makes the bartender's night harder. When you've earned it, though, you know. The staff respects you. The other regulars respect you. You're not a customer anymore. You're part of the place. And that belonging — that quiet, unremarkable sense of *I'm welcome here* — is worth more than most people realize until they have it.
+
+If you don't have a place like that in your life, you're missing one of the most powerful pieces of social infrastructure a person can have. It's a home base for everything this book is about.
+
 ---
 
 I can already hear the objections.
