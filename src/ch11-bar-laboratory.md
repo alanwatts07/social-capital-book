@@ -1,5 +1,9 @@
 # Chapter 11: The Bar as Laboratory
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch11_laboratory.mp3" type="audio/mpeg">
+</audio>
+
 You've got the theory. You understand the game. Cooperate first, read the returns, prune the dead weight.
 
 Now: where do you actually do this?
