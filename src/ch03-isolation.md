@@ -1,5 +1,9 @@
 # Chapter 3: Why Isolation Feels Safe (But Isn't)
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch03_isolation.mp3" type="audio/mpeg">
+</audio>
+
 I need to be honest with you before we go any further. I'm an introvert. A real one -- not the trendy kind who posts about it on social media while maintaining a thriving friend group. The kind who has genuinely gone entire weekends without speaking to another human being and felt *fine* about it. The kind who treats canceled plans like a small gift from the universe.
 
 So when I tell you that isolation is quietly ruining your life, I need you to understand: I'm not some extrovert wagging a finger at you. I'm someone who has lived inside the same fortress you're building, brick by brick, and I'm telling you what I found when I finally looked at the foundation.

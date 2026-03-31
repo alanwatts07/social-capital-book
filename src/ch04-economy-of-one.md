@@ -1,5 +1,9 @@
 # Chapter 4: The Economy of One
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch04_economy_of_one.mp3" type="audio/mpeg">
+</audio>
+
 Let's talk about the thing everyone thinks will save them.
 
 Money.

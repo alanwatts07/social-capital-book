@@ -1,5 +1,9 @@
 # Chapter 2: Nobody Is Self-Made
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch02_nobody_self_made.mp3" type="audio/mpeg">
+</audio>
+
 There is no such thing as a self-made person. There never has been. The phrase itself is a lie -- a useful one, but a lie all the same.
 
 Every success story you've ever heard is a network story with the network edited out. Someone cut the tape. Someone cropped the photo. Someone rewrote the origin myth until it fit on a magazine cover with one face and one name.
