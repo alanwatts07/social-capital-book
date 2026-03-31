@@ -54,7 +54,7 @@ I'm an introvert. Not the fake kind where you say "I'm an introvert" and then go
 
 For most of my twenties, I did exactly that. I had my home, my job, and my family around — and that was it. When I was living in South Carolina, it was our apartment, my girlfriend, her family. A tight little world that felt stable until it wasn't.
 
-When we broke up and she told me to go, I had nowhere. But here's where the strategy proved itself before I even had a name for it. There was a girl I'd met through the place where my girlfriend and I had worked. I'd been kind to her — not strategically, not with a plan, just genuinely kind. And when I needed a place, she offered me the laundry room on the back of her house.
+When we broke up and she told me to go (we're still friends, by the way — which tells you something about how this whole framework works even when relationships change shape), I had nowhere. But here's where the strategy proved itself before I even had a name for it. There was a girl I'd met through the place where my girlfriend and I had worked. I'd been kind to her — not strategically, not with a plan, just genuinely kind. And when I needed a place, she offered me the laundry room on the back of her house.
 
 A laundry room. That was my home. And honestly? I was the happiest I'd been in a long time. As an introvert who'd been living inside someone else's social world — the girlfriend, her family, the constant proximity — that tiny room was the first space that was *mine.* I could recharge in a way I couldn't when I was always around people. I could breathe. I could think.
 
