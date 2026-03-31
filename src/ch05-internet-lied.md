@@ -1,5 +1,9 @@
 # Chapter 5: The Internet Lied to You
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch05_internet_lied.mp3" type="audio/mpeg">
+</audio>
+
 Somewhere between 2015 and now, the internet finished a project it had been working on for years. It took the most connected generation in human history and made them the loneliest.
 
 And it sold them a story about how that was a good thing.
