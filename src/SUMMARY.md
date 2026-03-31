@@ -1,5 +1,7 @@
 # Summary
 
+[Before We Start](./foreword.md)
+
 ---
 
 # Part I: The Lie
