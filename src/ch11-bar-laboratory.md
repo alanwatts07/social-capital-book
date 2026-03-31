@@ -70,9 +70,13 @@ For about a year, my life was this: go to work, come home, take care of mom, and
 
 It wasn't. It never is. And I knew it, somewhere underneath the routine, because I'd already tasted what the alternative felt like. I'd lived in a laundry room that only existed because of a connection I'd built. I knew the math worked. I just wasn't playing the game.
 
-Then I started going to a bar. One bar. The same bar. Every Thursday.
+The thing that finally pushed me out the door wasn't ambition or strategy. It was survival. My mom — I love her, and I don't regret taking care of her — but the house had become suffocating. The depression was constant. Every conversation circled back to sad things, heavy things, things I couldn't fix no matter how many times I listened. I could feel it pulling me under. I had to escape. Not forever. Just enough to breathe.
 
-Not because I had some grand social strategy. Because the bartender was *real.* Within the first couple visits, she was sharing her own flaws, talking about her life without performing it, showing me the basement of the place like she was letting me in on something. No pretense. No customer-service mask. Just a person being honest with another person in a way that I hadn't experienced in a long time. That's what made me come back. Not the beer. Not the vibe. The fact that someone was being genuine, and it made me feel like I could be genuine too.
+Then I found a bar. A new place — so new that nobody knew about it yet. I started going every day it was open. I'd show up right when the doors opened, when it was empty, when it was just me and the bartenders. And because nobody else was there, I could actually be useful. I know how to do a wide range of things — fix stuff, build stuff, figure stuff out — and a new bar always needs help. So I helped. Not for free drinks. Not for a favor. Because I was there, they needed a hand, and I could provide one.
+
+That's a first move. That's generous tit-for-tat in its purest form: show up, be useful, see what happens.
+
+What happened was the bartender was *real.* Within the first couple visits, she was sharing her own flaws, talking about her life without performing it, showing me the basement of the place like she was letting me in on something. No pretense. No customer-service mask. Just a person being honest with another person in a way that I hadn't experienced in a long time. That's what made me keep coming back. Not the beer. Not the vibe. The fact that someone was being genuine, and it made me feel like I could be genuine too.
 
 So I kept going. And because I kept going, the bartender learned my name. She introduced me to other regulars. Someone invited me to hang out after close. Then a party. Then another party. Each time, the circle got a little wider. Not because I was working the room — I was barely talking. But I was *there,* and being there was enough.
 
