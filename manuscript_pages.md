@@ -32,6 +32,7 @@ If your version of this looks different — if your "bar" is a gym, a mosque, a 
 
 Take what's useful. Leave what isn't. Make it yours.
 
+
 \newpage
 
 # Part I: The Lie
@@ -124,6 +125,7 @@ The grind is a trap. The exit is other people.
 
 Let's talk about how.
 
+
 \newpage
 
 # Chapter 2: Nobody Is Self-Made
@@ -200,6 +202,7 @@ That starts in the next chapter. But the foundation is this single, non-negotiab
 
 Nobody is self-made. Nobody. And the sooner you stop trying to be the exception, the sooner everything changes.
 
+
 \newpage
 
 # Chapter 3: Why Isolation Feels Safe (But Isn't)
@@ -273,6 +276,7 @@ You don't have to tear down the walls. You just have to put in some doors. And t
 Not every day. Not for everyone. But strategically, deliberately, for the right people, in the right doses.
 
 That's not betraying your nature. That's completing it.
+
 
 \newpage
 
@@ -365,6 +369,7 @@ And you build it the same way you build anything worth having: one deposit at a 
 That's not charity. That's the best investment you'll ever make.
 
 Start today. You're already behind.
+
 
 \newpage
 
@@ -462,11 +467,14 @@ The internet lied to you. But the game is still being played in bars and barbers
 
 Your move.
 
+
 \newpage
+
 
 # Part II: The Game
 
 \newpage
+
 # Chapter 6: Life Is a Repeated Game
 
 Imagine you're driving through a town you'll never visit again.
@@ -1029,6 +1037,7 @@ Trust the data. Make the cut. Watch what grows.
 
 \newpage
 
+
 # Part III: The Practice
 
 \newpage
@@ -1089,7 +1098,7 @@ I'm an introvert. Not the fake kind where you say "I'm an introvert" and then go
 
 For most of my twenties, I did exactly that. I had my home, my job, and my family around — and that was it. When I was living in South Carolina, it was our apartment, my girlfriend, her family. A tight little world that felt stable until it wasn't.
 
-When we broke up and she told me to go, I had nowhere. But here's where the strategy proved itself before I even had a name for it. There was a girl I'd met through the place where my girlfriend and I had worked. I'd been kind to her — not strategically, not with a plan, just genuinely kind. And when I needed a place, she offered me the laundry room on the back of her house.
+When we broke up and she told me to go (we're still friends, by the way — which tells you something about how this whole framework works even when relationships change shape), I had nowhere. But here's where the strategy proved itself before I even had a name for it. There was a girl I'd met through the place where my girlfriend and I had worked. I'd been kind to her — not strategically, not with a plan, just genuinely kind. And when I needed a place, she offered me the laundry room on the back of her house.
 
 A laundry room. That was my home. And honestly? I was the happiest I'd been in a long time. As an introvert who'd been living inside someone else's social world — the girlfriend, her family, the constant proximity — that tiny room was the first space that was *mine.* I could recharge in a way I couldn't when I was always around people. I could breathe. I could think.
 
@@ -1399,7 +1408,7 @@ Here's the principle underneath all of this.
 
 Attention is the currency. Not money. Not time, exactly — though time matters. Attention. The decision to actually notice another person. To hold their reality in your mind when it would be easier to scroll past. To remember what they told you. To follow up on what matters to them. To show up, fully, in an era engineered for distraction.
 
-Every one of these moves is an expression of the same thing: *I see you.* Not your LinkedIn profile. Not your utility to me. *You.* The person. The actual human standing there with a life full of worries and hopes and a dog named Charlie who just had surgery.
+Every one of these moves is an expression of the same thing: *I see you.* Not your LinkedIn profile. Not your utility to me. *You.* The person. The actual human standing there with a life full of worries and hopes and a dog named Willie who just had surgery.
 
 In a world that is systematically training people to be absent — to be half-present, to be performing attention while their mind is three tabs away — genuine presence has become the most valuable thing you can offer another person. And it is, stubbornly and beautifully, free.
 
@@ -1722,6 +1731,7 @@ Nothing else even comes close.
 
 
 \newpage
+
 
 # Part IV: The Reckoning
 
@@ -2227,3 +2237,7 @@ Start generous.
 Start now.
 
 The rest will follow.
+
+
+\newpage
+

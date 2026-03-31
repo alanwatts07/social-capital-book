@@ -124,7 +124,7 @@ Here's the principle underneath all of this.
 
 Attention is the currency. Not money. Not time, exactly — though time matters. Attention. The decision to actually notice another person. To hold their reality in your mind when it would be easier to scroll past. To remember what they told you. To follow up on what matters to them. To show up, fully, in an era engineered for distraction.
 
-Every one of these moves is an expression of the same thing: *I see you.* Not your LinkedIn profile. Not your utility to me. *You.* The person. The actual human standing there with a life full of worries and hopes and a dog named Charlie who just had surgery.
+Every one of these moves is an expression of the same thing: *I see you.* Not your LinkedIn profile. Not your utility to me. *You.* The person. The actual human standing there with a life full of worries and hopes and a dog named Willie who just had surgery.
 
 In a world that is systematically training people to be absent — to be half-present, to be performing attention while their mind is three tabs away — genuine presence has become the most valuable thing you can offer another person. And it is, stubbornly and beautifully, free.
 
