@@ -1,5 +1,9 @@
 # Chapter 10: The Prune
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch10_prune.mp3" type="audio/mpeg">
+</audio>
+
 You've learned the game. You start cooperative. You read the returns. You know who shows up and who just takes.
 
 Now comes the part that generous people hate.

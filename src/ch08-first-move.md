@@ -1,5 +1,9 @@
 # Chapter 8: The Art of the First Move
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch08_first_move.mp3" type="audio/mpeg">
+</audio>
+
 You go first.
 
 That's it. That's the whole secret. In a world full of people waiting for permission, waiting for proof, waiting for someone else to extend the hand — you go first.

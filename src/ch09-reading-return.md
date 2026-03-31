@@ -1,5 +1,9 @@
 # Chapter 9: Reading the Return
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch09_reading.mp3" type="audio/mpeg">
+</audio>
+
 You've been generous. You've opened doors, made introductions, given your time and your attention and your energy to people who asked for it. Good.
 
 Now comes the hard part.

@@ -1,5 +1,9 @@
 # Chapter 6: Life Is a Repeated Game
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch06_repeated_game.mp3" type="audio/mpeg">
+</audio>
+
 Imagine you're driving through a town you'll never visit again.
 
 You cut someone off in traffic. You don't tip. You park like an idiot. Who cares? You're gone in twenty minutes. There are no consequences. You will never see these people again, and they will never see you. So the math is simple: take what you can, give nothing back, disappear.

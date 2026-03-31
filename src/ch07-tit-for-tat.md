@@ -1,5 +1,9 @@
 # Chapter 7: Generous Tit-for-Tat
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch07_generous.mp3" type="audio/mpeg">
+</audio>
+
 In 1980, a political scientist named Robert Axelrod did something unusual. He ran a tournament. Not chess, not poker — something stranger. He invited game theorists, economists, mathematicians, and computer scientists to submit programs. Each program would play a simple game against every other program, hundreds of rounds at a time.
 
 The game was the Prisoner's Dilemma. You've heard of it. Two players, each round. You can cooperate or you can defect. If you both cooperate, you both win. If you both defect, you both lose. If one cooperates and the other defects, the defector gets the biggest payoff and the cooperator gets screwed.
