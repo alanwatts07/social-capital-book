@@ -36,15 +36,11 @@ Desperate networkers show up and take. They scan the room for what they can extr
 
 Strategic positioners show up and give. They share information freely. They make introductions without being asked. They help with small things — proofreading a proposal, explaining a concept, holding the door open on a metaphorical level. They become known not for what they want, but for what they provide.
 
-This is the introvert's secret weapon.
+This is your edge.
 
-I'm telling you this as someone who has never once "worked a room" successfully. Cocktail parties make me want to crawl under the appetizer table. Small talk with strangers drains me faster than a twelve-hour workday. The traditional networking playbook — be outgoing, be aggressive, meet everyone, follow up relentlessly — was clearly written by extroverts for extroverts, and it made me feel like I was fundamentally broken for years.
+Not because you're an introvert or an extrovert or anything in between. Because you're choosing depth over performance. The traditional networking playbook — be outgoing, be aggressive, meet everyone, follow up relentlessly — makes most people feel like they're doing it wrong. That's because the playbook is wrong.
 
-I'm not broken. Neither are you, if this resonates.
-
-What I learned, slowly and painfully, is that the introvert's approach to building social capital is actually superior. Not just adequate. Superior. Because it's built on depth rather than breadth, on consistency rather than intensity, on genuine helpfulness rather than performed enthusiasm.
-
-The extrovert meets forty people at an event and follows up with all of them. The introvert meets three people and actually remembers their names, their work, and what they care about. Six months later, the extrovert has forty shallow contacts who vaguely recognize their face. The introvert has three people who genuinely trust them. Tell me which network is more valuable.
+What actually works is simpler and quieter. Meet three people and actually remember their names, their work, and what they care about. Six months later, those three people genuinely trust you. Meanwhile, the person who met forty people at that same event has forty shallow contacts who vaguely recognize their face. Tell me which network is more valuable.
 
 ---
 
