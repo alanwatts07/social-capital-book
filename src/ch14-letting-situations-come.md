@@ -74,7 +74,7 @@ Let me be specific about what to avoid. Because the temptation to slip back into
 
 Don't force connections. If a conversation isn't flowing, let it end gracefully. Not every interaction needs to produce a result. Some of the most valuable relationships in your life will start with a forgettable first meeting and only gain momentum months or years later.
 
-Don't keep score publicly. The moment you start tallying favors out loud — "I did this for you, so you owe me that" — you've poisoned the well. Strategic altruism only works when the giving feels unconditional, even if you know, privately, that it's an investment.
+Don't keep score publicly. The moment you start tallying favors out loud — "I did this for you, so you owe me that" — you've poisoned the well. Strategic altruism only works when the giving *is* unconditional — and it truly should be. Every act of generosity must be genuine, no strings, no ledger. The only difference between this and naive generosity is that you pay attention to what happens afterward. That observation influences your *future* interactions — who you keep investing in, who you prune — but the act itself must always be unconditional. If it isn't, people will feel it.
 
 Don't spread yourself thin. Three communities where you're a known, trusted presence are worth more than thirty where you're a face in the crowd. Depth beats breadth. Always.
 
