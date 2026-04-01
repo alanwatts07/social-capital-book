@@ -104,7 +104,7 @@ Choose the pack. Choose it deliberately, wisely, and with your eyes open. And th
 
 **VIII. Show up. Remember names. Follow through. That's the whole game.**
 
-You want the secret? There it is. Eight words.
+You want the secret? There it is. Six words.
 
 Show up when you say you will. Remember what people tell you about their lives. Do the thing you said you'd do, when you said you'd do it.
 
