@@ -1,5 +1,9 @@
 # Chapter 16: Building Your Board
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch16_your_board.mp3" type="audio/mpeg">
+</audio>
+
 You don't need a thousand connections. You need five to ten people who would answer the phone at 2 AM.
 
 That's it. That's the whole secret of social capital, stripped down to its core. Not the size of your network. Not the impressiveness of your LinkedIn. Not the number of people who know your name at parties. The handful of confirmed, tested, proven reciprocators who form your inner circle.

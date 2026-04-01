@@ -1,5 +1,9 @@
 # Chapter 15: The Multiplier Effect
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch15_multiplier.mp3" type="audio/mpeg">
+</audio>
+
 You help someone move apartments on a Saturday morning. You give up six hours, wreck your back, and eat bad pizza.
 
 Eight months later, that person is sitting in a meeting where someone says, "We need a freelancer who can handle this project." Your name comes out of their mouth before they even think about it. You get the gig. It pays more than you've ever made on a single contract.

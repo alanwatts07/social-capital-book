@@ -1,5 +1,9 @@
 # Chapter 14: Letting Situations Come to You
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch14_let_come_to_you.mp3" type="audio/mpeg">
+</audio>
+
 Most people network like they're drowning.
 
 They thrash around at events, shoving business cards into strangers' hands, reciting elevator pitches to people who are already looking over their shoulder for the next conversation. They send LinkedIn requests to people they spoke to for ninety seconds. They "follow up" with emails that reek of desperation. They call this hustle. They call this grinding.

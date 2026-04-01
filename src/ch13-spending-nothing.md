@@ -1,5 +1,9 @@
 # Chapter 13: Spending Nothing, Building Everything
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch13_spending_nothing.mp3" type="audio/mpeg">
+</audio>
+
 There's a myth that building a real network costs real money. That you need the fancy dinners. The conference tickets. The bottle service. The golf club membership. The $500-a-month coworking space where you "bump into" venture capitalists by the espresso machine.
 
 This myth is extraordinarily useful — to the people selling you all of that.

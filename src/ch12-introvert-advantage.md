@@ -1,5 +1,9 @@
 # Chapter 12: The Introvert's Advantage
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch12_introvert_advantage.mp3" type="audio/mpeg">
+</audio>
+
 You've been lied to.
 
 Every career guide, every networking seminar, every LinkedIn thought leader has sold you the same story: success belongs to the extroverts. The schmoozers. The people who work a room like a politician, collecting business cards and firm handshakes, who thrive at happy hours and conferences and "just grabbing coffee" with a different person every day of the week.
