@@ -106,7 +106,11 @@ Choose the pack. Choose it deliberately, wisely, and with your eyes open. And th
 
 You want the secret? There it is. Six words.
 
-Show up when you say you will. Remember what people tell you about their lives. Do the thing you said you'd do, when you said you'd do it.
+*Show up.* Not just when you have plans. Show up in the world. Leave the apartment. Go to the bar, the meetup, the neighborhood spot. Put yourself out there instead of staying alone and telling yourself you're fine. Show up when you say you will, yes — but first, show up at all. That's the double meaning, and both halves matter.
+
+*Remember names.* This means more than names. It means pay attention. Be observant. Notice what people care about, what they're going through, what they said last week that was weighing on them. Give your attention — the rarest currency there is — freely and deliberately. Remembering someone's name is just the beginning. Remembering their life is the move.
+
+*Follow through.* Do what you said you'd do. But follow through also means following the strategy to its end — including the hard parts. Including the prune. Following through means you don't reward bad actors with your continued energy. You don't let takers keep taking because confrontation is uncomfortable. You follow through on your generosity AND on your boundaries. Both.
 
 That's it. That is the entirety of the competitive advantage. Because almost nobody does it. Almost everybody flakes, forgets, and fails to follow through. The bar is on the floor. Step over it.
 
