@@ -1,3 +1,5 @@
+![Social Capital](social.jpg)
+
 # Before We Start
 
 ## Why This Book Exists
