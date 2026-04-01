@@ -54,9 +54,9 @@ These aren't quaint cultural holdovers. They're proof of concept. They demonstra
 
 Now look at the crises you've lived through.
 
-2008. The financial system nearly ate itself. Banks failed. Retirement accounts evaporated. Housing values cratered. Who weathered it? Not necessarily the people with the most money — plenty of millionaires were wiped out. The people who weathered it were the ones with networks. People who could crash on a friend's couch. People whose community rallied. People who knew someone who knew someone who was hiring.
+The 2008 crash. The financial system nearly ate itself. Banks failed. Retirement accounts evaporated. Housing values cratered. Who weathered it? Not necessarily the people with the most money — plenty of millionaires were wiped out. The people who weathered it were the ones with networks. People who could crash on a friend's couch. People whose community rallied. People who knew someone who knew someone who was hiring.
 
-COVID. The world shut down overnight. Who survived the isolation? Not the people with the biggest houses. The people with the strongest connections. Who got the first information about where to find supplies, which businesses were safe, which landlords would negotiate? Connected people. Networked people. People with social capital.
+Then COVID. The world shut down overnight. Who survived the isolation? Not the people with the biggest houses. The people with the strongest connections. Who got the first information about where to find supplies, which businesses were safe, which landlords would negotiate? Connected people. Networked people. People with social capital.
 
 Every natural disaster tells the same story. After Katrina, after Sandy, after the fires and the floods — the first responders aren't the government. They're neighbors. They're the person with a boat who knows which houses have elderly residents. They're the community network that coordinates food and shelter before FEMA can even get its boots on.
 
