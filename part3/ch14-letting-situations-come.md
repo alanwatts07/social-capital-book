@@ -76,6 +76,8 @@ Don't force connections. If a conversation isn't flowing, let it end gracefully.
 
 Don't keep score publicly. The moment you start tallying favors out loud — "I did this for you, so you owe me that" — you've poisoned the well. Strategic altruism only works when the giving *is* unconditional — and it truly should be. Every act of generosity must be genuine, no strings, no ledger. The only difference between this and naive generosity is that you pay attention to what happens afterward. That observation influences your *future* interactions — who you keep investing in, who you prune — but the act itself must always be unconditional. If it isn't, people will feel it.
 
+And this is why you must be patient. You can't force a genuine compliment. You can't manufacture the feeling of truly wanting to help someone. Sometimes it takes a while — weeks, months of showing up — before you find the moment where you genuinely think, "I want to do something for this person, no strings attached." Wait for that. Pay attention until you find it. Because a forced first move is worse than no move at all. The real ones land different, and people know the difference.
+
 Don't spread yourself thin. Three communities where you're a known, trusted presence are worth more than thirty where you're a face in the crowd. Depth beats breadth. Always.
 
 Don't confuse visibility with volume. Posting constantly on social media isn't the same as being strategically visible. One insightful post a week beats seven pieces of filler. One genuine comment on someone else's work builds more connection than a dozen self-promotional updates.
