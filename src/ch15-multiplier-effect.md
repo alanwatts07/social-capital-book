@@ -1,4 +1,4 @@
-# The Multiplier Effect
+# Chapter 15: The Multiplier Effect
 
 You help someone move apartments on a Saturday morning. You give up six hours, wreck your back, and eat bad pizza.
 

@@ -1,4 +1,4 @@
-# Social Capital Is the Real Economy
+# Chapter 17: Social Capital Is the Real Economy
 
 Let me tell you what no economics textbook will.
 

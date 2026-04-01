@@ -1,4 +1,4 @@
-# Letting Situations Come to You
+# Chapter 14: Letting Situations Come to You
 
 Most people network like they're drowning.
 

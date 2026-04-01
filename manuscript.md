@@ -1433,7 +1433,7 @@ That's everything. And it costs nothing.
 
 ---
 
-# Letting Situations Come to You
+# Chapter 14: Letting Situations Come to You
 
 Most people network like they're drowning.
 
@@ -1534,7 +1534,7 @@ Let them come.
 
 ---
 
-# The Multiplier Effect
+# Chapter 15: The Multiplier Effect
 
 You help someone move apartments on a Saturday morning. You give up six hours, wreck your back, and eat bad pizza.
 
@@ -1627,7 +1627,7 @@ Your job is to keep planting. The harvest takes care of itself.
 
 ---
 
-# Building Your Board
+# Chapter 16: Building Your Board
 
 You don't need a thousand connections. You need five to ten people who would answer the phone at 2 AM.
 
@@ -1737,7 +1737,7 @@ Nothing else even comes close.
 
 ---
 
-# Social Capital Is the Real Economy
+# Chapter 17: Social Capital Is the Real Economy
 
 Let me tell you what no economics textbook will.
 
@@ -1850,7 +1850,7 @@ Start acting like it.
 
 ---
 
-# Against Atomization
+# Chapter 18: Against Atomization
 
 You are being isolated on purpose.
 

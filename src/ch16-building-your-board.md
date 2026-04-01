@@ -1,4 +1,4 @@
-# Building Your Board
+# Chapter 16: Building Your Board
 
 You don't need a thousand connections. You need five to ten people who would answer the phone at 2 AM.
 
