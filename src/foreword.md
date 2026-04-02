@@ -18,6 +18,8 @@ I wrote this because the strategy that saved me is almost free, backed by actual
 
 If someone had handed me this book ten years ago, a lot of the hard parts would have been less hard. I can't go back. But I can write it down so you don't have to figure it out by accident.
 
+In 2000, Robert Putnam wrote *Bowling Alone* and documented the collapse of social capital in America. That book inspired a lot of this one. But where Putnam diagnosed the problem from a professor's desk, I'm writing the field manual for rebuilding it — from a bar stool, with no money, one person at a time.
+
 ---
 
 ## Who This Is For
