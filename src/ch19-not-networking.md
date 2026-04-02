@@ -1,5 +1,9 @@
 # Chapter 19: This Isn't Networking
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch19_not_networking.mp3" type="audio/mpeg">
+</audio>
+
 Let's get something straight before we go any further.
 
 This book is not about networking.

@@ -1,5 +1,9 @@
 # Afterword: You Can't Read People
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="afterword.mp3" type="audio/mpeg">
+</audio>
+
 One more thing before you go. Something I learned after everything in this book, not during it.
 
 You will be wrong about people.

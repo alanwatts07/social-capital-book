@@ -1,5 +1,9 @@
 # Chapter 20: The Manifesto
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch20_manifesto.mp3" type="audio/mpeg">
+</audio>
+
 You've read the theory. You've seen the math. You've heard the arguments.
 
 Now forget all of it.

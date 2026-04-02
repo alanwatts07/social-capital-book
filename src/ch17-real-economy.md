@@ -1,5 +1,9 @@
 # Chapter 17: Social Capital Is the Real Economy
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch17_real_economy.mp3" type="audio/mpeg">
+</audio>
+
 Let me tell you what no economics textbook will.
 
 The most powerful currency on the planet isn't printed by any government. It isn't minted, mined, or mined digitally. It doesn't have a ticker symbol. It doesn't flash across the bottom of CNBC. And yet it has underwritten every civilization that has ever existed.

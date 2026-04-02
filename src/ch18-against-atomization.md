@@ -1,5 +1,9 @@
 # Chapter 18: Against Atomization
 
+<audio controls style="width:100%; margin-bottom: 2rem;">
+  <source src="ch18_against_atomization.mp3" type="audio/mpeg">
+</audio>
+
 You are being isolated on purpose.
 
 Not by conspiracy. By something worse: by incentive. Every major structural force in modern life profits from your loneliness. Every one. And until you see that clearly, you will keep mistaking a systemic condition for a personal failure.
