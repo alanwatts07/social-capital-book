@@ -41,3 +41,7 @@
 - [Against Atomization](./ch18-against-atomization.md)
 - [This Isn't Networking](./ch19-not-networking.md)
 - [The Manifesto](./ch20-the-manifesto.md)
+
+---
+
+[Afterword: You Can't Read People](./afterword.md)
