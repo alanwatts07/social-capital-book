@@ -1,5 +1,7 @@
 ![Social Capital](social.jpg)
 
+> **[Download the full audiobook (2h 55m)](https://github.com/alanwatts07/social-capital-book/releases/download/v1.0/social_capital_audiobook.mp3)** — read by the author
+
 # Before We Start
 
 ## Why This Book Exists

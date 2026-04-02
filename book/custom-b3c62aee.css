@@ -1,0 +1,54 @@
+/* Wider, more breathable layout */
+.content main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+/* More space between paragraphs */
+.content main p {
+    margin-bottom: 1.6em;
+    line-height: 1.9;
+    font-size: 1.1rem;
+}
+
+/* Section breaks (---) get big breathing room */
+.content main hr {
+    margin: 3.5rem auto;
+    border: none;
+    border-top: 1px solid rgba(128, 128, 128, 0.2);
+    width: 40%;
+}
+
+/* Chapter titles */
+.content main h1 {
+    margin-bottom: 2.5rem;
+    font-size: 2rem;
+    letter-spacing: -0.02em;
+}
+
+/* Subheadings within chapters */
+.content main h2 {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Blockquotes stand out more */
+.content main blockquote {
+    margin: 2.5rem 0;
+    padding: 1rem 1.5rem;
+    border-left: 3px solid rgba(128, 128, 128, 0.4);
+    font-style: italic;
+}
+
+/* Lists breathe */
+.content main li {
+    margin-bottom: 0.8em;
+    line-height: 1.8;
+}
+
+/* Nav buttons bigger and clearer */
+.nav-chapters {
+    font-size: 1.2rem;
+    padding: 1rem;
+}
