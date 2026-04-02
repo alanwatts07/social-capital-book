@@ -36,6 +36,8 @@ So read the returns, yes. Pay attention, yes. But hold it all loosely. Stay open
 
 Sometimes the biggest return comes from the place you least expected it. And sometimes the person who looked like a sure thing turns out to be made of smoke.
 
-You can't read people. Not fully. Not ever. The best you can do is show up, be generous, pay attention, and leave room for the possibility that you're wrong about almost everyone.
+You can't read people. Not fully. Not ever. And especially not on the first meeting. First impressions will fool even the most seasoned readers — they always have, they always will. The true skill was never in reading the room on night one. It's in reading the *responses over time.* The pattern across months. The trend across years. That's where the real data lives. Everything before that is just noise dressed up as intuition.
+
+The best you can do is show up, be generous, pay attention, and leave room for the possibility that you're wrong about almost everyone.
 
 That's not a flaw in the strategy. That's the whole point of staying in the game long enough to find out.
