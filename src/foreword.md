@@ -31,3 +31,7 @@ That said, I write from my own experience. I'm an introvert. I've built most of 
 If your version of this looks different — if your "bar" is a gym, a mosque, a Discord server, a community garden — the strategy is the same. Show up. Be generous. Pay attention to who gives back. Prune the rest.
 
 Take what's useful. Leave what isn't. Make it yours.
+
+**Short on time?**
+- **[Chapter 7: Generous Tit-for-Tat](./ch07-tit-for-tat.md)** — the game theory and science behind everything in this book
+- **[Chapter 11: The Bar as Laboratory](./ch11-bar-laboratory.md)** — my personal story and how I tested all of this in real life
